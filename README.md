@@ -73,19 +73,19 @@
 ## 🌐 Coding & Data Profiles
 
 <p>
-  <a href="https://www.geeksforgeeks.org/user/YOUR-GFG-USERNAME/">
+  <a href="https://www.geeksforgeeks.org/user/@gaurav_lekhwar/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
   </a>
-  <a href="https://www.hackerrank.com/YOUR-HACKERRANK-USERNAME">
+  <a href="https://www.hackerrank.com/profile/gauravfree23">
     <img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank"/>
   </a>
-  <a href="https://www.kaggle.com/YOUR-KAGGLE-USERNAME">
+  <a href="https://www.kaggle.com/gauravlekhwar">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
   </a>
-  <a href="https://hashnode.com/@YOUR-HASHNODE-USERNAME">
+  <a href="https://hashnode.com/@gauravlekhwar">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode"/>
   </a>
-  <a href="https://stackoverflow.com/users/YOUR-STACKOVERFLOW-ID">
+  <a href="https://stackoverflow.com/users/31598921">
     <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow"/>
   </a>
 </p>
@@ -105,7 +105,7 @@
   <a href="https://github.com/gaurav-lekhwar">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://linkedin.com/in/gaurav-lekhwar-8b6ab02a9">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
