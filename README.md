@@ -57,9 +57,9 @@
 ### 🛒 Zepto E-commerce SQL Data Analysis
 📌 Real-world inventory dataset analysis scraped from Zepto  
 📌 Focused on **pricing, stock availability, data cleaning & revenue insights**  
-📌 Tools used: **PostgreSQL, SQL, Python**
+📌 Tools used: **PostgreSQL, SQL**
 
-🔗 *Repository link coming soon*
+🔗 (https://github.com/Gaurav-Lekhwar/Zepto-E-commerce-SQL-Data-Analysis-Project)
 
 ---
 
