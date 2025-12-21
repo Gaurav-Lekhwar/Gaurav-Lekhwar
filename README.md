@@ -94,6 +94,7 @@
 
 ## 🎯 Career Interests
 - Data Analyst
+- Data Analytics Engineer
 - Data Engineer
 - SQL & Python-based Data Roles
 
